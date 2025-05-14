@@ -86,6 +86,7 @@ CMSSW_L2 = {
     "quinnanm": ["l1"],
     "antoniovagnerini": ["dqm"],
     "rseidita": ["dqm"],
+    "ctarrico": ["dqm"],
     "smorovic": ["daq"],
     "smuzaffar": ["core"],
     "srimanob": ["upgrade"],
